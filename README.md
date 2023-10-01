@@ -20,6 +20,7 @@ Basic data visualization was performed in the above mentioned notebook. Later, a
 The life expectancy data by world bank provides details of 174 countries. There are several factors that can effect the life expectancy and some of that were mentioned in the dataset. Such as:
 - Sanitation
 - CO2 Emission & Education Expenditure.
+
 Also, CO2 emission is a leading cause of different injuries and diseases. Although these patterns were visualized using plots and dashboard. Although the data is very small to derive any hard conclusions. But Time series analysis could be performed to identify the seasonalities and effect of weather with the CO2 emission. Also, the Machine Learning model can be developed to predict the life expectancy of a country were for upcoming years.
 
 Finally, Even though the dataset is small but has so many key details of a country and region that many more conclusions can be derived from it.
