@@ -21,6 +21,8 @@ The life expectancy data by world bank provides details of 174 countries. There 
 - Sanitation
 - CO2 Emission & Education Expenditure.
 
-Also, CO2 emission is a leading cause of different injuries and diseases. Although these patterns were visualized using plots and dashboard. Although the data is very small to derive any hard conclusions. But Time series analysis could be performed to identify the seasonalities and effect of weather with the CO2 emission. Also, the Machine Learning model can be developed to predict the life expectancy of a country were for upcoming years.
+Also, CO2 emission is a leading cause of different injuries and diseases. These patterns were visualized using plots and dashboard. 
+Although the data is very small to derive any hard conclusions. 
+But Time series analysis could be performed to identify the seasonalities and effect of weather with the CO2 emission. Also, the Machine Learning model can be developed to predict the life expectancy of a country were for upcoming years.
 
 Finally, Even though the dataset is small but has so many key details of a country and region that many more conclusions can be derived from it.
