@@ -12,6 +12,6 @@ The same notebook was also used to perfrom data cleaning and Exploratory Data An
 
 ### Data Visualization
 Basic data visualization was performed in the above mentioned notebook.
-Later, a dashboard was configured using tableau public (WorldFish_Dashboard_mmkhan.png). The interactive dashboard can be accessed using the [link:](Dashborad.md) attaced in the main branch of the above repository.
+Later, a dashboard was configured using tableau public (WorldFish_Dashboard_mmkhan.png). The interactive dashboard can be accessed using the [Dashboard.me](Dashborad.md) file attaced in the main branch of the above repository.
 
 
