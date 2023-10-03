@@ -9,7 +9,7 @@ The dataset (life_expectancy.csv) directory consist of Original dataset which wa
 
 ## Data Cleaning & EDA
 
-After reading the original dataset. Some insights were gathered from the dataset. All the commands and insights can be found in the jupyter notebook (Life_Expectancy.ipynb) and at [insights]([df_profile.html](https://mutiullahkhan.github.io/WorldFish-Assignment/df_profile.html)). The same notebook was also used to perform data cleaning and Exploratory Data Analysis.
+After reading the original dataset. Some insights were gathered from the dataset. All the commands and insights can be found in the jupyter notebook (Life_Expectancy.ipynb) and at [insights](https://mutiullahkhan.github.io/WorldFish-Assignment/df_profile.html). The same notebook was also used to perform data cleaning and Exploratory Data Analysis.
 
 ## Data Visualization
 
